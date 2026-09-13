@@ -96,6 +96,7 @@ The project uses ColumnTransformer and preprocessing pipelines.
 
 Numerical Features
 
+
 Missing Values
       ↓
 Median Imputation
