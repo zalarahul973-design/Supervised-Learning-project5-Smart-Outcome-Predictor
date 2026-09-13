@@ -553,26 +553,15 @@ Bagging improved the classification accuracy by approximately **9.23 percentage 
 # 📁 Project Structure
 
 ```text
-SMART-OUTCOME-PREDICTOR/
+Smart_Outcome_Predictor/
 │
 ├── README.md
 │
 ├── project5.ipynb
 │
-├── dataset.5.csv
+├── Smart_Outcome_Predictor_Datasetpro5.csv
 │
-├── Part_A_Ensemble_Learning_Answers pro=5.docx
-│
-└── assets/
-    │
-    ├── classification_model_comparison.png
-    ├── regression_r2_comparison.png
-    ├── regression_rmse_comparison.png
-    ├── workflow.png
-    ├── notebook_output_1.png
-    ├── notebook_output_2.png
-    │
-    └── images/
+└──Theory.project5.docx/
 ```
 
 ---
@@ -680,7 +669,7 @@ project5.ipynb
 Make sure the dataset is available in the project folder:
 
 ```text
-dataset.5.csv
+Smart_Outcome_Predictor_Datasetpro5.csv
 ```
 
 ---
