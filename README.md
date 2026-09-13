@@ -88,8 +88,16 @@ The project compares different ensemble learning techniques and evaluates their 
 - attendance_rate
   
 
+
+
 🧹 Data Preprocessing
 
 The project uses ColumnTransformer and preprocessing pipelines.
 
 Numerical Features
+
+Missing Values
+      ↓
+Median Imputation
+      ↓
+StandardScaler
