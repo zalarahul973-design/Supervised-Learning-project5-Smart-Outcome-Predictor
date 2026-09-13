@@ -577,7 +577,7 @@ SMART-OUTCOME-PREDICTOR/
 
 ---
 
-# 🖼️ Project Screenshots
+# 🖼️ Project plots
 
 
 ## 🎯 Plot accuracy improvement
@@ -614,8 +614,28 @@ SMART-OUTCOME-PREDICTOR/
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/532f1788-1c20-4004-a62a-54c65e855cef" />
 
----
 
+
+## 📊 Regression Models - R2 Score Comparison
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/a14e1348-d442-47b7-ab02-94bca9c39c93" />
+
+
+
+## 📊 Regression Models - MAE Comparison
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/4d9b5355-96c7-495f-a79d-6bd55acc05ff" />
+
+
+
+## 📊 Regression Models - RMSE Comparison
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/71db0efd-2670-4025-bdac-9f60a2b2ddb9" />
+
+
+
+
+
+
+---
 # 🧰 Technologies Used
 
 | Technology | Purpose |
