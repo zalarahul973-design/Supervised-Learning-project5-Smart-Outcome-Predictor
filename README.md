@@ -72,9 +72,13 @@ The project compares different ensemble learning techniques and evaluates their 
 
 -age
 -country_region
+
 -device_type
+
 -education_background
+
 course_level
+
 course_category
 course_start_date
 week_of_year
