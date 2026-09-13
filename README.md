@@ -797,14 +797,17 @@ The **Smart Outcome Predictor** project demonstrates the practical application o
 
 The project covers:
 
-```text
-Bagging
-AdaBoost
-Gradient Boosting
-LightGBM
-XGBoost
----
+## 🧠 Ensemble Learning Techniques
 
+- 📦 Bagging
+- 🚀 AdaBoost
+- 📈 Gradient Boosting
+- ⚡ LightGBM
+- 🚀 XGBoost
+- 🗳️ Voting
+- 🧩 Stacking
+
+---
 
 ## 🏆 Recommended Models
 
