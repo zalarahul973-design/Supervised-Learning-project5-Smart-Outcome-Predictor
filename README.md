@@ -55,11 +55,11 @@ The project compares multiple ensemble learning strategies and evaluates their p
 
 | Metric    |      Score |
 | --------- | ---------: |
-| Accuracy  | **74.42%** |
-| Precision | **0.6867** |
-| Recall    | **0.5846** |
-| F1 Score  | **0.6316** |
-| ROC-AUC   | **0.7940** |
+| Accuracy  | **75.00%** |
+| Precision | **0.1867** |
+| Recall    | **0.9846** |
+| F1 Score  | **1.6446** |
+| ROC-AUC   | **0.4560** |
 
 > **Stacking achieved the strongest overall classification performance on the test set.**
 
@@ -71,9 +71,9 @@ The project compares multiple ensemble learning strategies and evaluates their p
 
 | Metric |      Score |
 | ------ | ---------: |
-| MAE    | **7.8049** |
-| RMSE   | **9.7166** |
-| R²     | **0.4947** |
+| MAE    | **7.5439** |
+| RMSE   | **9.3756** |
+| R²     | **0.4447** |
 
 > **Stacking achieved the lowest prediction error and highest R² among the evaluated regression models.**
 
@@ -104,18 +104,6 @@ The project uses:
 dataset.5.csv
 ```
 
-### Dataset Snapshot
-
-| Property              |               Value |
-| --------------------- | ------------------: |
-| Total Rows            |           **5,200** |
-| Total Columns         |              **19** |
-| Classification Target | `completion_status` |
-| Regression Target     |       `final_score` |
-| Train/Test Split      |       **80% / 20%** |
-| Training Samples      |           **4,160** |
-| Testing Samples       |           **1,040** |
-| Processed Features    |              **30** |
 
 ---
 
