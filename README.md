@@ -12,6 +12,32 @@
   <b>Stacking</b>
 </p>
 
+<p align="center">
+  <img src="assets/workflow.png" alt="Ensemble Learning Workflow" width="100%">
+</p>
+
+<p align="center">
+  <b>Bagging</b> •
+  <b>AdaBoost</b> •
+  <b>Gradient Boosting</b> •
+  <b>LightGBM</b> •
+  <b>XGBoost</b> •
+  <b>Voting</b> •
+  <b>Stacking</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/LightGBM-Boosting-9ACD32">
+  <img src="https://img.shields.io/badge/XGBoost-Boosting-EC4E20">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white">
+</p>
+
+</div>
+
 ---
 
 ## 📌 Project Overview
