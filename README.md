@@ -583,9 +583,10 @@ SMART-OUTCOME-PREDICTOR/
 
 ![Workflow](assets/workflow.png)
 
-## 🎯 Classification Model Comparison
+## 🎯 Plot accuracy improvement
 
-![Classification Model Comparison](assets/classification_model_comparison.png)
+<img width="855" height="470" alt="image" src="https://github.com/user-attachments/assets/e451b9fb-2c41-4e40-8545-ee1f4fac140b" />
+
 
 ## 📈 Regression RMSE Comparison
 
