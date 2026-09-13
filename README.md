@@ -69,10 +69,10 @@ The project compares different ensemble learning techniques and evaluates their 
 
 ---
 🔍 Important Features
-age
-country_region
-device_type
-education_background
+-age
+-country_region
+-device_type
+-education_background
 course_level
 course_category
 course_start_date
@@ -85,3 +85,9 @@ assignments_submitted
 forum_posts
 avg_quiz_score
 attendance_rate
+
+🧹 Data Preprocessing
+
+The project uses ColumnTransformer and preprocessing pipelines.
+
+Numerical Features
