@@ -88,13 +88,10 @@ The project compares different ensemble learning techniques and evaluates their 
 - sessions
 - 
 - time_spent_hours
-- 
+
 - videos_watched
-- 
 - quiz_attempts
-- 
 - assignments_submitted
-- 
 - forum_posts
 - 
 - avg_quiz_score
