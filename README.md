@@ -1,12 +1,10 @@
 <div align="center">
 
-# 🚀 Ensemble Learning — Student Performance Intelligence
+# 🚀Smart-Outcome-Predictor
+
 
 ### Classification + Regression using Modern Ensemble Machine Learning
 
-<p align="center">
-  <img src="assets/workflow.png" alt="Ensemble Learning Workflow" width="100%">
-</p>
 
 <p align="center">
   <b>Bagging</b> •
