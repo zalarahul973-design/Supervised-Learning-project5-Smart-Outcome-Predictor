@@ -90,28 +90,54 @@ The project compares different ensemble learning techniques and evaluates their 
 
 
 🧹 Data Preprocessing
-The project uses a reusable:
 
-ColumnTransformer + Pipeline
-approach.
+The project uses ColumnTransformer and preprocessing pipelines.
 
-🔢 Numerical Features
+Numerical Features
 Missing Values
       ↓
 Median Imputation
       ↓
 StandardScaler
-🔤 Categorical Features
+Categorical Features
 Missing Values
       ↓
 Most Frequent Imputation
       ↓
 OneHotEncoder
-      ↓
-Unknown Categories Ignored
-After preprocessing:
 
-Training samples : 4,160
-Testing samples  : 1,040
-Processed features: 30
-🧠 Machine Learning Architecture
+This preprocessing prepares numerical and categorical data for machine learning models.
+
+🧠 Machine Learning Models
+1️⃣ Bagging
+
+Bagging (Bootstrap Aggregating) trains multiple models on different bootstrap samples and combines their predictions.
+
+Implemented models:
+
+BaggingClassifier
+BaggingRegressor
+Benefit
+
+Bagging helps reduce variance and improves model stability.
+
+2️⃣ AdaBoost
+
+AdaBoost trains weak learners sequentially.
+
+Each new learner focuses more on the errors made by previous learners.
+
+Implemented:
+
+AdaBoostClassifier
+AdaBoostRegressor
+3️⃣ Gradient Boosting
+
+Gradient Boosting builds models sequentially to reduce prediction errors.
+
+Implemented:
+
+GradientBoostingClassifier
+GradientBoostingRegressor
+
+The project also analyzes different learning rates and numbers of estimators.
