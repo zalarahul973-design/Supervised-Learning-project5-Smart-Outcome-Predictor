@@ -579,28 +579,40 @@ SMART-OUTCOME-PREDICTOR/
 
 # 🖼️ Project Screenshots
 
-## 🔄 Workflow
-
-![Workflow](assets/workflow.png)
 
 ## 🎯 Plot accuracy improvement
 
 <img width="855" height="470" alt="image" src="https://github.com/user-attachments/assets/e451b9fb-2c41-4e40-8545-ee1f4fac140b" />
 
 
-## 📈 Regression RMSE Comparison
+##📈 Classification Graph
+<img width="855" height="470" alt="image" src="https://github.com/user-attachments/assets/0617a553-46cf-417f-b330-d92a645803e3" />
 
-![Regression RMSE Comparison](assets/regression_rmse_comparison.png)
 
-## 📊 Regression R² Comparison
+## 📊 Classification Models Comparison
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/a3c06160-23fc-4b65-8e92-5b18fdc11deb" />
 
-![Regression R² Comparison](assets/regression_r2_comparison.png)
 
-## 📓 Notebook Output
+## 📊 Regression Models Comparison
 
-![Notebook Output 1](assets/notebook_output_1.png)
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/75e47d74-6956-41fd-b7d7-2a864cfc6c0e" />
 
-![Notebook Output 2](assets/notebook_output_2.png)
+
+
+## 📊Classification Models - Accuracy Comparison
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/0ab5fe9b-2b39-433c-887d-34992b0246f0" />
+
+
+
+## 📊 Classification Models - F1-Score Comparison
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/90d2138f-e124-49c2-a8d3-0a8e145f0d33" />
+
+
+
+## 📊 Classification Models - ROC-AUC Comparison
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/532f1788-1c20-4004-a62a-54c65e855cef" />
 
 ---
 
