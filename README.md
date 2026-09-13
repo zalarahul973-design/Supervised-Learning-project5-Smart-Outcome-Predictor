@@ -72,3 +72,24 @@ assignments_submitted
 forum_posts
 avg_quiz_score
 attendance_rate
+
+The student_id column is used only as an identifier and is removed before model training.
+
+🧹 Data Preprocessing
+
+The project uses ColumnTransformer and preprocessing pipelines.
+
+Numerical Features
+Missing Values
+      ↓
+Median Imputation
+      ↓
+StandardScaler
+Categorical Features
+Missing Values
+      ↓
+Most Frequent Imputation
+      ↓
+OneHotEncoder
+
+This preprocessing prepares numerical and categorical data for machine learning models.
