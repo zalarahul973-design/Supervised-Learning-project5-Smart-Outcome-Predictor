@@ -77,19 +77,25 @@ The student_id column is used only as an identifier and is removed before model 
 
 🧹 Data Preprocessing
 
-The project uses ColumnTransformer and preprocessing pipelines.
+# 🔍 Important Features
 
-Numerical Features
-Missing Values
-      ↓
-Median Imputation
-      ↓
-StandardScaler
-Categorical Features
-Missing Values
-      ↓
-Most Frequent Imputation
-      ↓
-OneHotEncoder
+### 👤 Student Profile
 
-This preprocessing prepares numerical and categorical data for machine learning models.
+age
+country_region
+device_type
+education_background
+course_level
+course_category
+course_start_date
+week_of_year
+sessions
+time_spent_hours
+videos_watched
+quiz_attempts
+assignments_submitted
+forum_posts
+avg_quiz_score
+attendance_rate
+```
+
