@@ -88,4 +88,55 @@ The project compares different ensemble learning techniques and evaluates their 
 - attendance_rate
   
 
+## 🎯 Target Variables
+
+### 1. `completion_status`
+
+Used for **Classification**.
+
+The model predicts whether a student will complete the course.
+
+### 2. `final_score`
+
+Used for **Regression**.
+
+The model predicts the student's final score.
+
+
+### 📊 Important Features
+
+The dataset contains the following important features:
+
+- `age`
+- `country_region`
+- `device_type`
+- `education_background`
+- `course_level`
+- `course_category`
+- `course_start_date`
+- `week_of_year`
+- `sessions`
+- `time_spent_hours`
+- `videos_watched`
+- `quiz_attempts`
+- `assignments_submitted`
+- `forum_posts`
+- `avg_quiz_score`
+- `attendance_rate`
+
+> **Note:** The `student_id` column is treated as an identifier and is not used as a predictive feature.
+>
+> # 🧹 Data Preprocessing
+
+The project uses **ColumnTransformer** and preprocessing pipelines.
+
+## 🔢 Numerical Features
+
+```text
+Missing Values
+      ↓
+Median Imputation
+      ↓
+StandardScaler
+```text
 
