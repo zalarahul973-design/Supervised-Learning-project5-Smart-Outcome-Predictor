@@ -69,6 +69,7 @@ The project compares different ensemble learning techniques and evaluates their 
 
 ---
 🔍 Important Features
+
 -age
 -country_region
 -device_type
