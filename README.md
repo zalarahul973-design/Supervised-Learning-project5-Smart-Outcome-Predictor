@@ -89,16 +89,29 @@ The project compares different ensemble learning techniques and evaluates their 
   
 
 
-
 🧹 Data Preprocessing
+The project uses a reusable:
 
-The project uses ColumnTransformer and preprocessing pipelines.
+ColumnTransformer + Pipeline
+approach.
 
-Numerical Features
-
-
+🔢 Numerical Features
 Missing Values
       ↓
 Median Imputation
       ↓
 StandardScaler
+🔤 Categorical Features
+Missing Values
+      ↓
+Most Frequent Imputation
+      ↓
+OneHotEncoder
+      ↓
+Unknown Categories Ignored
+After preprocessing:
+
+Training samples : 4,160
+Testing samples  : 1,040
+Processed features: 30
+🧠 Machine Learning Architecture
