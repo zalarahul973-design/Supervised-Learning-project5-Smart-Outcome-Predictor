@@ -12,9 +12,7 @@
   <b>Stacking</b>
 </p>
 
-<p align="center">
-  <img src="assets/workflow.png" alt="Ensemble Learning Workflow" width="100%">
-</p>
+
 
 <p align="center">
   <b>Bagging</b> •
